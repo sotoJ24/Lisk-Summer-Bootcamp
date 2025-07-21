@@ -1,0 +1,27 @@
+{
+  "name": "lisk-summer-bootcamp",
+  "version": "1.0.0",
+  "description": "Solidity Fundamentals Bootcamp provided by Lisk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sotoJ24/Lisk-Summer-Bootcamp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sotoJ24/Lisk-Summer-Bootcamp/issues"
+  },
+  "homepage": "https://github.com/sotoJ24/Lisk-Summer-Bootcamp#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-ethers": "^3.1.0",
+    "@nomicfoundation/hardhat-toolbox": "^6.1.0",
+    "chai": "^5.2.1",
+    "ethers": "^6.15.0",
+    "hardhat": "^2.26.1"
+  }
+}
