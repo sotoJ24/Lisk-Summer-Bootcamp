@@ -1,13 +1,13 @@
-## Lisk-Summer-Bootcamp
+# Lisk-Summer-Bootcamp
 Solidity Fundamentals Bootcamp provided by Lisk
 
-## First tasks 
+# First tasks 
 
-# Create a smart contract that allows users to register and update their profile information ( name, age, email etc).
+##Create a smart contract that allows users to register and update their profile information ( name, age, email etc).
 
-# Functions: Create register(), updateProfile(), getProfile()
+##Functions: Create register(), updateProfile(), getProfile()
 
-# Requirements:
+##Requirements:
 
     - Use a struct named User
     - Store data in state variables
